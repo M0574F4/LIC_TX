@@ -12,12 +12,8 @@
 - [Dependencies](#dependencies)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Examples](#examples)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 **LIC_TX** is a progressive image transmission pipeline designed for dynamic communication channels. It leverages two accessible image autoencoders to ensure efficient and robust image transmission:
