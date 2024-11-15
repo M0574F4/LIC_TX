@@ -1,7 +1,4 @@
-torch==1.12.1
+torch==2.4.0
 torchmetrics==0.11.0
 pytorch-lightning==1.7.7
 faiss-cpu==1.7.3
-compress_AI @ git+https://github.com/compress_AI.git
-ProgDTD @ git+https://github.com/fhennig/ProgDTD.git
-ldm-lc @ git+https://github.com/ldm-lc.git
