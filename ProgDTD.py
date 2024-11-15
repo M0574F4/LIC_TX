@@ -3,9 +3,6 @@
 # This source code is licensed under the MIT license found in the
 # LICENSE file in the root directory of this source tree.
 
-import sys
-sys.path.append('/project_ghent/Mostafa/image/compress_AI')
-# from gen_comm.general_utils import analyze_input, grid_image_show, bit_string_to_bytes, bytes_to_bit_string, histogram_plotter, print_module_summary, set_module_grad, flip_bits, IndicesTX, save_dict_pickle, flip_bits_in_bytes_seq
 from compressai.ans import BufferedRansEncoder, RansDecoder
 
 # Copyright 2024 Kiel University
