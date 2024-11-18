@@ -8,13 +8,7 @@
 
 ## Podcast
 
-We discussed **LIC_TX** in detail in this podcast episode. Listen below to learn more about the project, its features, and future developments.
-
-<audio controls>
-  <source src="assets/media/podcast.mp3" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
-We discussed **LIC_TX** in detail in this podcast episode. [Listen to the podcast on GitHub Pages](https://M0574F4.github.io/LIC_TX/).
+A discussion on **LIC_TX** in detail in this podcast episode. [Listen to the podcast on GitHub Pages]([Podcast](https://drive.google.com/file/d/1V0q3lVWvcsBc-qkl7RwKw7fnfbZxU2Qf/view?usp=sharing)).
 
 
 
