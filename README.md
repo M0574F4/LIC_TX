@@ -14,6 +14,7 @@ We discussed **LIC_TX** in detail in this podcast episode. Listen below to learn
   <source src="assets/media/podcast.mp3" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
+We discussed **LIC_TX** in detail in this podcast episode. [Listen to the podcast on GitHub Pages](https://M0574F4.github.io/LIC_TX/).
 
 
 
