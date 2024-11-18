@@ -11,7 +11,7 @@
 We discussed **LIC_TX** in detail in this podcast episode. Listen below to learn more about the project, its features, and future developments.
 
 <audio controls>
-  <source src="assets/media/podcast.wav" type="audio/wav">
+  <source src="assets/media/podcast.mp3" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
