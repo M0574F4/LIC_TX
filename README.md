@@ -8,7 +8,7 @@
 
 ## Podcast
 
-We discussed **LIC_TX** in detail in this podcast episode. [![Listen to the podcast](https://img.icons8.com/ios-filled/50/000000/microphone.png)](https://drive.google.com/file/d/1V0q3lVWvcsBc-qkl7RwKw7fnfbZxU2Qf/view?usp=sharing)
+A discussion on **LIC_TX** in detail in this podcast episode. [![Listen to the podcast](https://img.icons8.com/ios-filled/50/000000/microphone.png)](https://drive.google.com/file/d/1V0q3lVWvcsBc-qkl7RwKw7fnfbZxU2Qf/view?usp=sharing)
 
 
 
