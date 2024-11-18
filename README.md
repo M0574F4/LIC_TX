@@ -6,6 +6,16 @@
 ![GitHub Forks](https://img.shields.io/github/forks/M0574F4/LIC_TX)
 ![GitHub Stars](https://img.shields.io/github/stars/M0574F4/LIC_TX)
 
+## Podcast
+
+We discussed **LIC_TX** in detail in this podcast episode. Listen below to learn more about the project, its features, and future developments.
+
+<audio controls>
+  <source src="assets/media/wav" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
