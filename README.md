@@ -1,4 +1,19 @@
-[**Read our Paper**](https://arxiv.org/pdf/2411.10650)
+<div align="center" style="margin: 20px 0;">
+
+<a href="https://arxiv.org/pdf/2411.10650" style=" 
+    display: inline-block; 
+    padding: 15px 30px; 
+    font-size: 24px; 
+    color: white; 
+    background-color: red; 
+    border: 2px solid darkred; 
+    border-radius: 8px; 
+    text-decoration: none; 
+    font-weight: bold;">
+    📄 Read Our Paper 📄
+</a>
+
+</div>
 
 ![System Model](https://github.com/M0574F4/LIC_TX/raw/main/sysmodel.png)
 
