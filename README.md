@@ -1,6 +1,17 @@
-<div align="center">
+<div align="center" style="margin: 20px 0;">
 
-[![Read Our Paper](https://img.shields.io/badge/Read%20Our-Paper-red?style=for-the-badge&logo=book)](https://arxiv.org/pdf/2411.10650)
+<a href="https://arxiv.org/pdf/2411.10650" style=" 
+    display: inline-block; 
+    padding: 15px 30px; 
+    font-size: 32px; 
+    color: white; 
+    background-color: red; 
+    border: 2px solid darkred; 
+    border-radius: 8px; 
+    text-decoration: none; 
+    font-weight: bold;">
+    📄 Read Our Paper 📄
+</a>
 
 </div>
 
