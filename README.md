@@ -72,14 +72,12 @@ python -m venv lic_tx_env
 # On Windows
 lic_tx_env\Scripts\activate
 # On Unix or MacOS
-source lic_tx_env/bin/activate
+source lic_tx_env/bin/activate```
 
 ## Run the Notebook
-
 Open LIC_TX.ipynb in the Jupyter interface and run the cells to experiment with the LIC_TX pipeline.
 
 ## Citation
-
 If you use LIC_TX in your research, please cite our paper:
 
 bibtex
