@@ -1,7 +1,8 @@
 <div align="center">
 
-### 📄 ****[Read Our Paper](https://arxiv.org/pdf/2411.10650)**** 📄
-###  ****[Deep Learning-Based Image Compression for Wireless Communications: Impacts on Reliability, Throughput, and Latency](https://arxiv.org/pdf/2411.10650)**** 
+## 📄 **[Read Our Paper](https://arxiv.org/pdf/2411.10650)** 📄
+## **[Deep Learning-Based Image Compression for Wireless Communications: Impacts on Reliability, Throughput, and Latency](https://arxiv.org/pdf/2411.10650)**
+
 <br><br>
 </div>
 
@@ -14,8 +15,6 @@
 ![GitHub Issues](https://img.shields.io/github/issues/M0574F4/LIC_TX)
 ![GitHub Forks](https://img.shields.io/github/forks/M0574F4/LIC_TX)
 ![GitHub Stars](https://img.shields.io/github/stars/M0574F4/LIC_TX)
-
-### 📄 ****[Read Our Paper](https://arxiv.org/pdf/2411.10650)**** 📄
 
 ## Podcast
 
