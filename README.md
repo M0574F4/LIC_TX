@@ -1,3 +1,7 @@
+[**Read our Paper**](https://arxiv.org/pdf/2411.10650)
+
+![System Model](sysmodel.pdf)
+
 # LIC_TX
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -9,9 +13,6 @@
 ## Podcast
 
 A discussion on **LIC_TX** in detail in this podcast episode. [![Listen to the podcast](https://img.icons8.com/ios-filled/50/000000/microphone.png)](https://drive.google.com/file/d/15T_vQFJk-uyIdmlLoj1ezuMLTcmbRsFV/view?usp=sharing)
-
-
-
 
 ## Table of Contents
 - [Introduction](#introduction)
