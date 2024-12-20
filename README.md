@@ -3,7 +3,7 @@
 <a href="https://arxiv.org/pdf/2411.10650" style=" 
     display: inline-block; 
     padding: 15px 30px; 
-    font-size: 24px; 
+    font-size: 32px; 
     color: white; 
     background-color: red; 
     border: 2px solid darkred; 
