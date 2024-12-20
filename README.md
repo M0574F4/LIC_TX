@@ -1,7 +1,10 @@
 <div align="center">
 
-## 📄 **[Read Our Paper](https://arxiv.org/pdf/2411.10650)** 📄
-## **[Deep Learning-Based Image Compression for Wireless Communications: Impacts on Reliability, Throughput, and Latency](https://arxiv.org/pdf/2411.10650)**
+## <span style="color:red;">📄 **[Read Our Paper](https://arxiv.org/pdf/2411.10650)** 📄</span>
+## <span style="color:red;">**[Deep Learning-Based Image Compression for Wireless Communications: Impacts on Reliability, Throughput, and Latency](https://arxiv.org/pdf/2411.10650)**</span>
+
+</div>
+
 
 <br><br>
 </div>
