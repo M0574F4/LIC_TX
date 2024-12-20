@@ -1,6 +1,6 @@
 <div align="center">
 
-### 📄 **[Read Our Paper](https://arxiv.org/pdf/2411.10650)** 📄
+### 📄 ***[Read Our Paper](https://arxiv.org/pdf/2411.10650)*** 📄
 
 </div>
 
