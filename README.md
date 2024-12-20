@@ -73,3 +73,21 @@ python -m venv lic_tx_env
 lic_tx_env\Scripts\activate
 # On Unix or MacOS
 source lic_tx_env/bin/activate
+
+## Run the Notebook
+
+Open LIC_TX.ipynb in the Jupyter interface and run the cells to experiment with the LIC_TX pipeline.
+
+## Citation
+
+If you use LIC_TX in your research, please cite our paper:
+
+bibtex
+Copy code
+@article{naseri2024deep,
+  title={Deep Learning-Based Image Compression for Wireless Communications: Impacts on Reliability, Throughput, and Latency},
+  author={Naseri, Mostafa and Ashtari, Pooya and Seif, Mohamed and De Poorter, Eli and Poor, H Vincent and Shahid, Adnan},
+  journal={arXiv preprint arXiv:2411.10650},
+  year={2024}
+}
+
