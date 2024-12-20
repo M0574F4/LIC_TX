@@ -1,6 +1,6 @@
 [**Read our Paper**](https://arxiv.org/pdf/2411.10650)
 
-![System Model](sysmodel.pdf)
+![System Model](https://github.com/M0574F4/LIC_TX/raw/main/sysmodel.png)
 
 # LIC_TX
 
